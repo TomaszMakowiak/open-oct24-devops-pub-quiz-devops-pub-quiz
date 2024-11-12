@@ -4,7 +4,7 @@ print("Welcome to the Pub Quiz!")
 # List of questions, options, and answers
 quiz_questions = [
     {
-        "question": "What is the symbol (ticker) for Bitcoin?",
+        "question": "What is the symbol (ticker) for Bitcoin??",
         "options": ["A) BB", "B) BTC", "C) BT", "D) BIT"],
         "answer": "B"
     },
